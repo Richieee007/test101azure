@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This is hosted in Azure within the Microsoft App Services
+          This is hosted in Azure within the Microsoft App Services!
         </p>
         <a
           className="App-link"
